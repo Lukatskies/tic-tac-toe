@@ -26,14 +26,8 @@ body {
     text-align: center;
 }
     
-span {
-    margin: auto;
-}
     
 #playagain {
     display: none;
 }
     
-input {
-    margin-bottom: 15px;
-    } 
